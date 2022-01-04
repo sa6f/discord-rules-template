@@ -48,7 +48,7 @@ async def on_ready():
 async def on_message(message):
     if "tutorial" in message.content.lower():
         # in this case don't respond with the word "Tutorial" or you will call the on_message event recursively
-        await message.channel.send('This is that you want http://youtube.com/fazttech')
+        await message.channel.send('This is that you want http://youtube.com/0xsa1f')
         await bot.process_commands(message)
 
 bot.run('token')
