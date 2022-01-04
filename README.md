@@ -10,13 +10,21 @@ If you liked this repository, feel free to leave a star ⭐ to help promote Tats
 120+ commands and counting across 13 different categories!
 
 🎉 `Fun:` advice, fact, meme, reminder, pokemon and 6 more!
+
 🎁 `Giveaway:` g-start, g-reroll, g-edit and g-delete!
+
 💬 `Guild:` avatar, giveaway, server-info, poll, and 6 more!
+
 👑 `Host:` reload, shutdown, addban, eval and 5 more!
+
 🖼 `Image:` blurpify, changemymind, phcomment, stickbug, whowouldwin, threats, and 10 more!
+
 💰 `Level:` leaderboard, rank!
+
 ❔ `Misc:` about, invite, status, support, and 4 more!
+
 🚓 `Moderation:` ban, clear, kick, warn, report, unmute and 9 more!
+
 🎵 `Music:` play, queue, shuffle, seek, lyrics and 25 more!
 
 Plugins: serverstats, set-(logs | plugin) and setlang!
